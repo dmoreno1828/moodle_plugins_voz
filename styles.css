@@ -1,0 +1,22 @@
+
+.block_vozaccessibily .content .list li.listentry {
+    clear: both;
+}
+
+.block_vozaccessibily .content .list li.listentry .user {
+    float: left;
+    position: relative;
+}
+
+.block_vozaccessibily .content .list li.listentry .user .userpicture {
+    vertical-align: text-bottom;
+}
+
+.block_vozaccessibily .content .list li.listentry .message {
+    float: right;
+    margin-top: 3px;
+}
+
+.block_vozaccessibily .content .info {
+    text-align: center;
+}
